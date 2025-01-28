@@ -1,3 +1,0 @@
-start:map1.txt
-aSharpPlace:sharp.txt
-thirdRoom:thirdroom.txt 
